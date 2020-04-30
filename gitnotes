@@ -1,0 +1,18 @@
+       
+touch newfile (for creating newfile)
+git status (for checking status)
+git add newfile (add newfile)
+git commit "added newfile" (committing the changes )
+git push (for pushing the files)
+git clone https://github.com/rohithrdy417/project1.git
+git clone https://gitlab.com/rohithrdy417/myproject.git
+git clone git clone https://rohithrdy417@bitbucket.org/rohithrdy417/rohith.git
+git checkout master (for changing one branch to another branch)
+git checkout -b <branchname> (creating and going new branch)
+git init (to insilaztion of git in loacl machine)
+mkdir newfolder (creating newfolder)
+rm -rf <filename> (for removing files)
+git config --global user.name "<adding congif yoursusername in laoclmachine>"
+git config --global user.email "<adding config youremailid in localmachine>"
+cd.. ( for come back of existing folders)
+cd <folder name> (for going inside of newfolder)
